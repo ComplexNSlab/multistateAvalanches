@@ -1,0 +1,9 @@
+[submodule "neurongen"]
+	path = neurongen
+	url = https://github.com/orlandi/neurongen
+[submodule "neurondyn"]
+	path = neurondyn
+	url = https://github.com/orlandi/neurondyn
+[submodule "netcal"]
+	path = netcal
+	url = https://github.com/orlandi/netcal
